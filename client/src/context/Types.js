@@ -1,0 +1,14 @@
+// Team Selection Context
+export const GET_TEAMS = 'GET_TEAMS';
+export const GET_TEAM_OPTIONS = 'GET_TEAM_OPTIONS';
+export const SELECT_TEAM = 'SELECT_TEAM';
+export const TEAMS_ERROR = 'TEAMS_ERROR';
+
+// Recruits
+export const GET_TEAM_ROSTER_BREAKDOWN = 'GET_TEAM_ROSTER_BREAKDOWN';
+export const CLEAR_ROSTER_BREAKDOWN = 'CLEAR_ROSTER_BREAKDOWN';
+export const SET_BREAKDOWN_BY = 'SET_BREAKDOWN_BY';
+export const RECRUITS_ERROR = 'RECRUITS_ERROR';
+export const SET_FILTER = 'SET_FILTER';
+export const CLEAR_FILTER = 'CLEAR_FILTER';
+export const SET_ANALYSIS_TYPE = 'SET_ANALYSIS_TYPE';
